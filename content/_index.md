@@ -1,7 +1,7 @@
 +++
-author = "Hugo Authors"
-title = "Rich Content"
-date = "2019-03-10"
+author = "Aleksandar"
+title = "Blog"
+date = "2023-01-31"
 description = "A brief description of Hugo Shortcodes"
 tags = [
     "shortcodes",
