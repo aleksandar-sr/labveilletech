@@ -22,5 +22,5 @@ Cette stratégie est différente du marketing publicitaire que l’on connait to
 L’article donne des pistes sur l’élaboration d’une stratégie de contenu efficace. Elle se base sur l’inbound marketing, méthode que j’ai déjà vu et eu l’occasion de l’appliquer durant mon cursus. Il va m’être utile car il communique des informations sur les éléments clés à prendre en compte sur la stratégie de contenu. Dans l’ensemble ce sont des choses que nous avons déjà parcouru dans certains modules, cela va donc me servir comme une checklist dans le but d’améliorer le rendement et la pertinence de mes contenus crées. Néanmoins, il aurait été plus bénéfique d’apporter des exemples avec des illustrations, ou des extraits d’études.
 
 <h4>Sources</h4>
-<b>Creads</b>
+<b>Creads</b><br>
 <a href="https://www.creads.com/blog/decryptage/comment-faire/strategie-content-marketing-conseils/">Content Marketing : 5 règles d'or pour une stratégie performante</a>

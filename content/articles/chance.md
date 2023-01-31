@@ -27,4 +27,5 @@ Ceci serait d’autant plus pertinent de le faire avec des outils de programmati
 
 
 <h4>Sources</h4>
-<b>Agorapulse</b> <a href="https://www.agorapulse.com/fr/blog/quand-publier-sur-les-reseaux-sociaux/">Quand publier sur les réseaux sociaux ?</a>
+<b>Agorapulse</b><br>
+<a href="https://www.agorapulse.com/fr/blog/quand-publier-sur-les-reseaux-sociaux/">Quand publier sur les réseaux sociaux ?</a>

@@ -26,4 +26,6 @@ Le SEO et le SEM font partie intégrante dans une stratégie marketing. Grâce �
 
 <h4>Sources</h4>
 <b>SEMRush</b>
-<br><a href="https://fr.semrush.com/blog/seo-et-sem/#header6">SEO vs. SEM : quelle différence et quel impact pour vous ?</a>
+<br><a href="https://fr.semrush.com/blog/seo-et-sem/#header6">SEO vs. SEM : quelle différence et quel impact pour vous ?</a><br>
+<b>Digital marketing institute</b><br>
+<a href="https://digitalmarketinginstitute.com/blog/how-do-seo-and-sem-work-together-in-2018">SEO vs SEM: How Do They Work Together</a>

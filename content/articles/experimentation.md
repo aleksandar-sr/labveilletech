@@ -7,20 +7,25 @@ tags = ["strategie", "experience", "cas pratique"]
 categories = []
 series = ["Themes Guide"]
 +++
+<img src="/labveilletech/images/etude-marche.jpg">
 
 Après mon Bachelor, j’aspire à me lancer dans la vie professionnelle, et plus précisément dans le marketing digital. Il est très probable que j’aie à faire à de nombreuses études de marché. Elles sont très importantes pour de multiples raisons : connaître le marché en collectant des données, identifier les concurrents, cibler le « client idéal », ou encore à améliorer la stratégie marketing de l’entreprise.
 
-Dans le cadre du cours LabVeilTech, j’ai donc décidé d’expérimenter une étude de marché. Pour le sujet étudié, j’ai choisi d’évaluer la demande des fans pour les maillots de football en ligne. Ceci n’a malheureusement pas été exploité jusqu'au, mais j’ai établi une démarche et une méthodologie pour pouvoir la réaliser.
+Dans le cadre du cours LabVeilTech, j’ai donc décidé d’expérimenter une étude de marché. Pour le sujet étudié, j’ai choisi d’évaluer la demande pour les maillots de football en ligne. Ceci n’a malheureusement pas été exploité et exploré en profondeur, mais j’ai établi une démarche et suivi une méthodologie pour pouvoir la réaliser.
 
 <h3>Collecte d'informations</h3>
 
-On commencerait donc à collecter les informations auprès d’un échantillon de population qui représente notre cible pour comprendre leur comportement d’achats sous forme de sondage en ligne. J’inclurai également des entretiens avec des gérants de magasins de sport ou de sites e-commerce. Il serait intéressant de vérifier si une étude similaire a été faite récemment, mais il semble que ce ne soit pas le cas. Dans ce cas, il aurait fallu creuser et regrouper les sources afin d’évaluer plus précisément le marché de niche. J’ai des recherches sur les tendances ces 12 derniers mois en Suisse. Les termes que j’ai inséré sont : maillot de football (en bleu) et fussballtrikots (en rouge). Car si je vise un marché suisse, il ne faut évidement pas négligé la partie germanophone qui représente plus de 60% de la population du pays.
+On commence donc à collecter les informations auprès d’un échantillon de population qui représente notre cible pour comprendre leur comportement d’achats grâce à un sondage en ligne. J’inclurai également des entretiens avec des gérants de magasins de sport ou de sites e-commerce pour avoir des données qualitatives. Il serait intéressant de vérifier si une étude similaire a été faite récemment, mais il semble que ce ne soit pas le cas. Dans ce fait, il aurait fallu regrouper les différentes sources en rapport avec le sujet, afin d’évaluer plus précisément le marché. J’ai fait des recherches sur les tendances ces 12 derniers mois en Suisse. Les termes que j’ai inséré sont : 
+- maillot de football (en bleu)
+- fussballtrikots (en rouge). 
+
+Car si je vise un marché suisse, il ne faut évidement pas négligé la partie germanophone qui représente plus de 60% de la population du pays.
 
 
 <script type="text/javascript" src="https://ssl.gstatic.com/trends_nrtr/3197_RC04/embed_loader.js"></script> <script type="text/javascript"> trends.embed.renderExploreWidget("TIMESERIES", {"comparisonItem":[{"keyword":"maillot de football","geo":"CH","time":"today 12-m"},{"keyword":"fussballtrikots","geo":"CH","time":"today 12-m"}],"category":0,"property":""}, {"exploreQuery":"geo=CH&q=maillot%20de%20football,fussballtrikots&date=today 12-m,today 12-m","guestPath":"https://trends.google.fr:443/trends/embed/"}); </script>
 
 On observe que la demande est quand même présente au sein du pays, même s’il y a des périodes plus creuses. J’en conclue que la demande est existante. Afin de ne pas rentrer dans les détails des vrais et faux maillots, je les considère comme égaux, même si cela va biaiser mon étude.
-Compte tenu des données obtenues des sondages, des entretiens et des recherches des tendances, je procèderais à une analyse et ressortirais les points intéressants.
+Ensuite, compte tenu des données obtenues des sondages, des entretiens et des recherches de tendances, je procèderais à une analyse et ressortirais les points intéressants.
 
 <h3>Identifier le client</h3>
 
@@ -44,7 +49,7 @@ L’analyse de ces deux types de concurrence va me permettre de créer une offre
 
 Pour expérimenter l’étude de marché, j’ai voulu rassembler les informations à travers plusieurs ressources. Ces articles ont très intéressants à parcourir et m’ont appris à comment procéder à une étude de marché. Comme cité au début de l’article, je n’ai qu’explorer la méthode en surface. Dépendant du projet, cette phase peut être conséquente au niveau de la charge du travail.
 
-Cependant, je suis satisfait car l’expérience m’a permis de me rafraîchir la mémoire sur certains concepts mais aussi d’en apprendre d’autres. J’aurais pu faire des matrices de positionnement, une analyse SWOT qui m’auraient permis d’approfondir l’étude et d’ainsi les exercer. Ce que je retiens c’est qu’il est essentiel de récolter des données qualitatives et quantitatives et d’en faire un rapport d’analyse. Il est également important de bien identifier le marché cible et les clients potentiels, et de bien se démarquer de la concurrence. Ces connaissances et l’application de celles-ci seront très utiles pour mon futur.
+Cependant, je suis satisfait car l’expérience m’a permis de me rafraîchir la mémoire sur certains concepts mais aussi d’en apprendre d’autres. J’aurais pu faire des matrices de positionnement ou une analyse SWOT qui m’auraient permis d’approfondir l’étude et d’ainsi les exercer. Ce que je retiens c’est qu’il est essentiel de récolter des données qualitatives et quantitatives et d’en faire un rapport d’analyse. Il est également important de bien identifier le marché cible et les clients potentiels, et de bien se démarquer de la concurrence. Ces connaissances et l’application de celles-ci seront très utiles pour mon futur.
 
 Cette méthode peut s’appliquer à d’innombrables cas comme le lancement d’un nouveau produit, évaluer la concurrence, évaluer l’opportunité du marché et sa croissance, etc.
 

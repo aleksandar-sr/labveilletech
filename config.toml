@@ -4,7 +4,7 @@ title = "Blog de veille tech"
 theme = "puppet"
 
 copyright = ""
-paginate = 6
+paginate = 8
 languageCode = "en"
 defaultContentLanguage = "en"
 
@@ -59,9 +59,9 @@ weight = 50
 
 [params]
 author = "Aleksandar"
-description = "Ressources en lien avec mon Ikigai"
+description = "Stratégie marketing"
 keywords = "blog,developer,personal"
-img_home = "img/home-bg.jpg"
+img_home = "images/marketing-background.jpg"
 img_404 = "img/404-bg.jpg"
 
 useFaviconGenerator = true
