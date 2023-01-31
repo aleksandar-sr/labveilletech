@@ -3,11 +3,6 @@ author = "Aleksandar"
 title = "Blog"
 date = "2023-01-31"
 description = "A brief description of Hugo Shortcodes"
-tags = [
-    "shortcodes",
-    "privacy",
-    "MarkDown"
-]
 subtitle = "A brief description of Hugo Shortcodes"
 header_img = "img/404-bg.jpg"
 +++
