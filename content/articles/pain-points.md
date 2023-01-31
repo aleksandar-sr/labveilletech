@@ -7,6 +7,7 @@ tags = ["achat", "parcours"]
 categories = []
 series = ["Themes Guide"]
 +++
+<img src="/labveilletech/images/pain-points.jpg">
 
 Un pain point (en français : un point douloureux) est une frustration exprimée par un client au contact d’un produit ou durant son expérience avec un service. Ceci peut être lié à plusieurs aspects comme la qualité du produit, le service clientèle médiocre ou la rupture de stock. Identifier les pain points chez les clients est important car cela permet aux entreprises de comprendre leurs besoins et leurs attentes, et d’ainsi améliroer leurs offres de produits ou de services.
 
@@ -20,3 +21,10 @@ Pour avoir un visuel sur le parcours client, la cartographie est un outil intér
 Avant d’assurer la satisfaction client, il faut d’abord qu’elle y soit du côté des employés. Cela se traduit par une politique de gestion, et de prôner des valeurs comme l’encouragement de prise d’initiative et d’accepter le droit à l’erreur des employés.
 4. Etre à l’écoute de vos clients
 Une bonne écoute est essentielle pour comprendre ce que veulent les clients et pour conclure une vente. Elle permet aussi d’identifier les points irritants.
+
+<h3>Ce que j’ai retenu</h3>
+En résumé, l’article décrit un processus pour identifier les “pain points” chez les clients, les frustrations ou les problèmes que les clients peuvent rencontrer lors de l’utilisation d’un produit ou d’un service. Il est essentiel de les identifier pour comprendre les besoins et les attentes des clients. Ceci se décompose en quatre étapes : mesurer la satisfaction des clients, modéliser le parcours client, corréler le parcours client à celui des employés, et être à l'écoute des clients. L’application de ce processus peut servir à améliorer nos produits ou services, et donc d’améliorer l’expérience client.
+
+<h4>Sources</h4>
+<b>HubSpot</b>
+<a href="https://tinyurl.com/2p85t2du">Qu'est-ce qu'un pain point client ?</a>
